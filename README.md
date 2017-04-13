@@ -1,3 +1,5 @@
+## Many thanks to the talented team at Girl Develop It for this course!!
+
 # Better Web Debugging: A Developer Tools Workshop
 
 Slides and course materials for GDI Burlington’s Developer Tools workshop. Developed by Rachael Arnold, based loosely on Alexandra Hoefinger’s GDI Philly class.
